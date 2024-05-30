@@ -1,0 +1,13 @@
+*~
+*.o
+*build*/
+./models/
+__pycache__/
+.vscode
+./translation
+.cache
+.gitlab
+0413_736_288_avod
+0822_736_288_data
+1117_736_288_data
+*.onnx
